@@ -1,0 +1,12 @@
+C:\Users\Cristhian\source\repos\FarmaceuticaBack\obj\Debug\net5.0\FarmaceuticaBack.csproj.AssemblyReference.cache
+C:\Users\Cristhian\source\repos\FarmaceuticaBack\obj\Debug\net5.0\FarmaceuticaBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhian\source\repos\FarmaceuticaBack\obj\Debug\net5.0\FarmaceuticaBack.AssemblyInfoInputs.cache
+C:\Users\Cristhian\source\repos\FarmaceuticaBack\obj\Debug\net5.0\FarmaceuticaBack.AssemblyInfo.cs
+C:\Users\Cristhian\source\repos\FarmaceuticaBack\obj\Debug\net5.0\FarmaceuticaBack.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian\source\repos\FarmaceuticaBack\bin\Debug\net5.0\FarmaceuticaBack.deps.json
+C:\Users\Cristhian\source\repos\FarmaceuticaBack\bin\Debug\net5.0\FarmaceuticaBack.dll
+C:\Users\Cristhian\source\repos\FarmaceuticaBack\bin\Debug\net5.0\ref\FarmaceuticaBack.dll
+C:\Users\Cristhian\source\repos\FarmaceuticaBack\bin\Debug\net5.0\FarmaceuticaBack.pdb
+C:\Users\Cristhian\source\repos\FarmaceuticaBack\obj\Debug\net5.0\FarmaceuticaBack.dll
+C:\Users\Cristhian\source\repos\FarmaceuticaBack\obj\Debug\net5.0\ref\FarmaceuticaBack.dll
+C:\Users\Cristhian\source\repos\FarmaceuticaBack\obj\Debug\net5.0\FarmaceuticaBack.pdb
