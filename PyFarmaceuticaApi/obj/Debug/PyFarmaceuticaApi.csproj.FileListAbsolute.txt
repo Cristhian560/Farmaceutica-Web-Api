@@ -1,0 +1,9 @@
+C:\Users\Cristhian\source\repos\PyFarmaceuticaApi\bin\Debug\PyFarmaceuticaApi.exe.config
+C:\Users\Cristhian\source\repos\PyFarmaceuticaApi\bin\Debug\PyFarmaceuticaApi.exe
+C:\Users\Cristhian\source\repos\PyFarmaceuticaApi\bin\Debug\PyFarmaceuticaApi.pdb
+C:\Users\Cristhian\source\repos\PyFarmaceuticaApi\obj\Debug\PyFarmaceuticaApi.csproj.AssemblyReference.cache
+C:\Users\Cristhian\source\repos\PyFarmaceuticaApi\obj\Debug\PyFarmaceuticaApi.Properties.Resources.resources
+C:\Users\Cristhian\source\repos\PyFarmaceuticaApi\obj\Debug\PyFarmaceuticaApi.csproj.GenerateResource.cache
+C:\Users\Cristhian\source\repos\PyFarmaceuticaApi\obj\Debug\PyFarmaceuticaApi.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian\source\repos\PyFarmaceuticaApi\obj\Debug\PyFarmaceuticaApi.exe
+C:\Users\Cristhian\source\repos\PyFarmaceuticaApi\obj\Debug\PyFarmaceuticaApi.pdb

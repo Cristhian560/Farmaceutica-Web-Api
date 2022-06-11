@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20494fca-9451-4db2-b7fc-f1cce3e5b6f8": {
+      "ProjectGuid": "20494fca-9451-4db2-b7fc-f1cce3e5b6f8",
+      "DisplayName": "FarmaceuticaFront",
+      "ColorIndex": 0
+    },
+    "f58b7544-3aad-4f15-941c-f17d8aa037de": {
+      "ProjectGuid": "f58b7544-3aad-4f15-941c-f17d8aa037de",
+      "DisplayName": "FarmaceuticaWepApi",
+      "ColorIndex": 1
+    },
+    "b9fab18e-290f-4962-9c9c-7129f638081d": {
+      "ProjectGuid": "b9fab18e-290f-4962-9c9c-7129f638081d",
+      "DisplayName": "FarmaceuticaBack",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
